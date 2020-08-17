@@ -15,8 +15,7 @@ The biggest challenge was finding a good map API and then figuring out how to us
 We were able to design a site, implement a map API, and create social media handles for GRDN in the space of a couple of hours. The site looks very clean and we were able to implement all the features we set out to. This is especially awesome for us since most of the team had no knowledge of CSS, HTML or JS going into the project.
 
 ## What we learned
-We learnt how to interface with an API in a web apphttps://www.youtube.com/watch?v=iKmRsRAOyKk and showcase a map asynchronously to the end-user. Additionally, we all learnt a lot more about web development and honed our skills in CSS, HTML and JS. We also learnt how to organize multiple webpages and assets into various files.
+We learnt how to interface with an API in a web app and showcase a map asynchronously to the end-user. Additionally, we all learnt a lot more about web development and honed our skills in CSS, HTML and JS. We also learnt how to organize multiple webpages and assets into various files.
 
 ## What's next for GRDN
 Our next big goal is to implement GRDN in a mobile application, as well as adding a social media feature where users can share pictures of the food they are growing, support each other and provide tips to one another. We also want to expand the number of farmers markets our web app shows and expand the range to include markets outside of Ontario.
-
