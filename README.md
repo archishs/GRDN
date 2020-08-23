@@ -1,4 +1,6 @@
 # GRDN
+## Team
+GRDN was built and designed by Archish Sadeesh, Max Liu, Jeffrey Kai-Li, Andrew Ganea and Kaushik Chatterjee.
 ## Inspiration
 We wanted to create a viable solution for the issue of food sustainability while being able to connect local communities. Gardening is a great solution to fostering sustainable food practices in a fun and engaging way. There is a myriad of benefits in growing your own food and shopping for local produce, and GRDN makes it easy to get started and find local farmers' markets. As we are coming out of this pandemic, we have a choice to make. We could go back to the way things were, consuming unnecessary amounts of products that caused a lot of harm to our environment and leading to an incredible amount of waste. Or we could pause and improve, striving to make a difference. A difference that can fix the damage we have made, and lead everyone towards a happier, healthier life. GRDN aims to be the start of this change
 
